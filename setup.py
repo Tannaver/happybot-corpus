@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Setup file for chatterbot-corpus.
+Setup file for happybot-corpus.
 """
 from setuptools import setup
 
